@@ -1,0 +1,49 @@
+﻿2016/06/08 17:20:53 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\takemoto.minori\Desktop\ＧＭチーム制作\くらげぽよぽよbyCragames_20160518\くらげぽよぽよbyCragames_20160518.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\くらげぽよぽよbyCragames_20160518.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt UI.cpp
+         UI.cpp
+     1>c:\users\takemoto.minori\desktop\ｇｍチーム制作\くらげぽよぽよbycragames_20160518\main.h(85): warning C4091: 'typedef ' : 変数が何も宣言されていないときは、'SCREEN' の左辺を無視します。
+     1>c:\users\takemoto.minori\desktop\ｇｍチーム制作\くらげぽよぽよbycragames_20160518\ui.h(48): warning C4091: 'typedef ' : 変数が何も宣言されていないときは、'UI_2D' の左辺を無視します。
+     1>c:\users\takemoto.minori\desktop\ｇｍチーム制作\くらげぽよぽよbycragames_20160518\ui.h(63): warning C4091: 'typedef ' : 変数が何も宣言されていないときは、'UI_3D' の左辺を無視します。
+     1>c:\users\takemoto.minori\desktop\ｇｍチーム制作\くらげぽよぽよbycragames_20160518\ui.cpp(196): warning C4244: '=' : 'LONG' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\takemoto.minori\desktop\ｇｍチーム制作\くらげぽよぽよbycragames_20160518\ui.cpp(224): warning C4244: '=' : 'LONG' から 'float' への変換です。データが失われる可能性があります。
+       ManifestResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\takemoto.minori\Desktop\ＧＭチーム制作\くらげぽよぽよbyCragames_20160518\Debug\くらげぽよぽよbyCragames_20160518.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\くらげぽよぽよbyCragames_20160518.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\takemoto.minori\Desktop\ＧＭチーム制作\くらげぽよぽよbyCragames_20160518\Debug\くらげぽよぽよbyCragames_20160518.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\takemoto.minori\Desktop\ＧＭチーム制作\くらげぽよぽよbyCragames_20160518\Debug\くらげぽよぽよbyCragames_20160518.lib" /MACHINE:X86 "Debug\くらげぽよぽよbyCragames_20160518.exe.embed.manifest.res"
+         Debug\Camera.obj
+         Debug\CollisionDetection.obj
+         Debug\DebugProc.obj
+         Debug\Effect.obj
+         Debug\Fade.obj
+         Debug\Game.obj
+         Debug\Input.obj
+         Debug\Light.obj
+         Debug\Main.obj
+         Debug\Object.obj
+         Debug\Player.obj
+         Debug\Result.obj
+         Debug\Shadow.obj
+         Debug\Sound.obj
+         Debug\TextChanger.obj
+         Debug\Texture.obj
+         Debug\Title.obj
+         Debug\UI.obj
+         Debug\XFile.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\くらげぽよぽよbyCragames_20160518.exe.embed.manifest" /manifest "Debug\くらげぽよぽよbyCragames_20160518.exe.intermediate.manifest"
+         すべての出力が最新のものです。
+       LinkEmbedManifest:
+         すべての出力が最新のものです。
+         くらげぽよぽよbyCragames_20160518.vcxproj -> C:\Users\takemoto.minori\Desktop\ＧＭチーム制作\くらげぽよぽよbyCragames_20160518\Debug\くらげぽよぽよbyCragames_20160518.exe
+       FinalizeBuildStatus:
+         ファイル "Debug\くらげぽよぽよbyCragames_20160518.unsuccessfulbuild" を削除しています。
+         "Debug\くらげぽよぽよbyCragames_20160518.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\takemoto.minori\Desktop\ＧＭチーム制作\くらげぽよぽよbyCragames_20160518\くらげぽよぽよbyCragames_20160518.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:02.11
